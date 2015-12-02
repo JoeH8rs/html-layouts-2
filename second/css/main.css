@@ -1,0 +1,50 @@
+body {
+	background-color: lightgray;
+	width: 90%;
+	margin: 0 auto;
+	display: flex;
+	padding: 5%;
+}
+
+.contain-top {
+	background-color: white;
+	padding: 2%;
+	
+  
+}
+.text-top {
+	
+	
+}
+.contain-button {
+	display: flex;
+	align-content: left;
+}
+button {
+  color: white;
+  border: none;
+  width: 120px;
+  height: 50px;
+  margin: 5px;
+  font-size: 24px;
+   
+}
+.red-button button {
+	background: red;		
+}
+.blue-button button {
+	background: dodgerblue;
+}
+.contain-bot {
+	background-color: white;
+	padding: 2%;
+	margin: 20%;
+	width: 90%;
+}
+.insert-image {
+	background: darkslategray;
+	width: 90%;
+	height: 600px;
+	
+}
+
